@@ -1,15 +1,7 @@
 {
-  "name": "asap-3",
-  "version": "1.0.0",
-  "description": "Project Title:\r \"Pet Names That Shouldn't Exist\"",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0"
   }
 }
